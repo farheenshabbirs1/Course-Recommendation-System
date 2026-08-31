@@ -1,13 +1,11 @@
 <p align="center">
-  <img width="800" alt="Course Mapping System Banner" src="https://github.com/user-attachments/assets/72d684c0-b252-446d-9aec-1d29d21540ed" />
+  <img width="2352" height="3609" alt="erd" src="https://github.com/user-attachments/assets/e5aad0cc-1a68-43c6-845d-ed10e217a74a" />
+
 </p>
 
 <h1 align="center">📚 Course Mapping System</h1>
 
-<p align="center">
-  <b>University of the Pacific — Office of Global Education</b><br>
-  <b>Application Development • API Integration • Data Systems • Agile SDLC</b>
-</p>
+
 
 ---
 
