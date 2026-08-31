@@ -3,8 +3,7 @@
 
 </p>
 
-<h1 align="center">📚 Course Mapping System</h1>
-
+<h1 align="center">Entity Relationship Managing For Distributed Services</h1>
 
 
 ---
