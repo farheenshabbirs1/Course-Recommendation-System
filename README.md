@@ -30,21 +30,5 @@ Before the system was introduced, students had to:
 
 This created unnecessary manual work and made it difficult for students to quickly identify previously approved course equivalencies.
 
----
 
-## Solution
 
-The Course Mapping System provides a centralized workflow for:
-
-```text
-Search
-   ↓
-Filter
-   ↓
-Match Courses
-   ↓
-Review Equivalencies
-   ↓
-Export Results
-   ↓
-Submit Course Approval Request
